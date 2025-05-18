@@ -1,2 +1,3 @@
 # Vehicle-Detection-openCV-and-Yolo
 The AI Vehicle Speed Estimator uses YOLO and OpenCV for real-time vehicle detection, tracking, and speed estimation, optimizing traffic monitoring, law enforcement, and smart transportation with high accuracy.
+This AI-powered project detects vehicles in real-time, tracks them, and estimates their speed using YOLO & OpenCV. It processes video streams, draws bounding boxes, and computes vehicle speeds using displacement tracking. Ideal for traffic surveillance, law enforcement, and autonomous driving, this system ensures high accuracy and efficiency. Built with Python, OpenCV, Deep Learning, and FFmpeg, it offers scalable and customizable solutions for smart cities and intelligent transportation systems.
